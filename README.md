@@ -8,8 +8,6 @@ En este programa se vera la animacion de tres personajes: guerrero, mounstruo y 
 ### Patrones ⚙️
 ---
 
-<p align="center"> <img src="https://github.com/aebolivar/principios-SOLID/blob/master/imagenes%20README/SOLID.png"> </p> 
-
 En el desarrollo de este ejercicio se busco implementar los patrones creacionales: Builder y Abstract Factory. Las fabricas entregan los sprites de familias y builder arma el personaje.
 
 ### DISEÑO: Diagrama de Clases📋
